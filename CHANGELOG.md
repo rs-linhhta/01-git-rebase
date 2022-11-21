@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.0.1 - 20221121
+
+
+- [rs-06] Remove NAL content on sample file [PR#7](https://github.com/rs-linhhta/01-git-merge/pull/7)
+
 ## v1.0.0 - 20221121
 
 
